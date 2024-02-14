@@ -1,0 +1,1 @@
+del bison.tab.h bison.tab.c lex.yy.c compilateur.exe

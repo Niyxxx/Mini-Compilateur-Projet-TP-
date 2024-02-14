@@ -1,0 +1,1 @@
+type input.txt | .\compilateur.exe > output.txt
